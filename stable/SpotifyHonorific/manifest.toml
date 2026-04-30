@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Valiice/SpotifyHonorific.git"
+commit = "d8e869d61600dcd7b8fecd8a2b803113ae80ba78"
+owners = ["Valiice"]
+project_path = "SpotifyHonorific"
+changelog = "Initial submission"
